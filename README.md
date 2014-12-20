@@ -14,6 +14,8 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ```
+可将sql转为xls表格
+
 由于直接转csv,xls处理为gbk会乱码
 
 所以百度到各种坑 
